@@ -46,15 +46,12 @@
 ## About JavaCollections
 
 ![GameCollections Screenshot](images/GameCollections.png)
+<img src="images/classlist.png" alt="classlist Screenshot" width="25%"/><img src="images/hashsetexample.png" alt="hashsetexample Screenshot" width="25%"/><img src="images/hashfruits.png" alt="hashfruits Screenshot" width="25%"/><img src="images/sortexample.png" alt="sortexample Screenshot" width="25%"/>
 
 JavaCollections is a compilation of projects to learn object-oriented programming in Java focus on Java Collections (manipulating data). 
 
 Its inspiration comes from Java Programming course by Oracle Academy.
 
-![classlist Screenshot](images/classlist.png)
-![hashsetexample Screenshot](images/hashsetexample.png)
-![hashfruits Screenshot](images/hashfruits.png)
-![sortexample Screenshot](images/sortexample.png)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
